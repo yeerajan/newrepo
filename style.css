@@ -1,0 +1,9 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul,li{
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
